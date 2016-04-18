@@ -1,0 +1,51 @@
+The GreenHouse app was written using Android Studio 1.5.1. The files were zipped into the GreenHouse.zip 
+archive. Unzip the file in your android studio project directory so that the GreenHouse directory and 
+the file below it sit in your project directory.
+
+..\AndroidStudioProjects\GreenHouse
+..\AndroidStudioProjects\GreenHouse\<app and all the other files and directories.>
+
+Open the GreenHouse app as a project and rebuild the project if Gradle does not do it automatically 
+(Build -> Rebuild project). Run the app on your phone or emulator. At the start onCreate starts with 
+the activity_main.xml page. This is the first page of the app and gives an introduction to the 
+problem of climate change. Check the CheckBox to see notes and references on the following pages. 
+
+Clicking the next page takes you to page 2. The main text of this page describes how to lower heating
+ and cooling energy consumptions. If the checkbox was used on the first page, then notes and references
+ are displayed. Clicking the links in the reference section will take you to websites outside of this app.
+
+Clicking the back button takes you back to page 1 and clicking the next button takes you to page 3
+ which describe saving energy by reducing hot water consumption. Clicking the back button will 
+take you to page 2. If the checkbox was used on the first page, then notes and references are 
+displayed. Clicking the links in the reference section will take you to websites outside of this app.
+
+Clicking the next button will take you to page 4 which describes how to reduce energy consumption
+ by using appliances efficiently. Clicking the back button will take you to page 3. If the checkbox
+ was used on the first page, then notes and references are displayed. Clicking the links in the 
+reference section will take you to websites outside of this app.
+
+Clicking the next button will take you to page 5 which describes how to reduce energy by insulation
+ and sealing air leaks. Clicking the back button will take you to page 4. If the checkbox was used 
+on the first page, then notes and references are displayed. Clicking the links in the reference 
+section will take you to websites outside of this app.
+
+Clicking the next button will take you to page 6 which describes how to low you carbon footprint 
+by selecting an electricity supply that generates electricity from renewable energy sources. 
+Clicking the back button will take you to page 5. If the checkbox was used on the first page, 
+then notes and references are displayed. Clicking the links in the reference section will 
+take you to websites outside of this app.
+
+Clicking the next button will take you to page 7 which summarized the five things. Clicking 
+the back button will take you to page 6. Clicking the next button will take you to page 1.
+
+The methods associated with xml files are as follows: 
+
+onCreate -> activity_main, next button -> openPage2
+openPage1 -> activity_main, next button -> openPage2
+openPage2 -> s2_heating_cooling, back button -> openPage1, next button -> openPage3
+openPage3 -> s3_hotwater, back button -> openPage2, next button -> openPage4
+openPage4 -> s4_appliances, back button -> openPage3, next button -> openPage5
+openPage5 -> s5_insulation, back button -> openPage4, next button -> openPage6
+openPage6 -> s6_energy_sources, back button -> openPage5, next button -> openPage7
+openPage7 -> s7_summary, back button -> openPage6, next button -> openPage1
+

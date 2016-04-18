@@ -1,0 +1,69 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+#
+# Initial commit
+#
+# Changes to be committed:
+#	new file:   .gitignore
+#	new file:   .idea/.name
+#	new file:   .idea/compiler.xml
+#	new file:   .idea/copyright/profiles_settings.xml
+#	new file:   .idea/encodings.xml
+#	new file:   .idea/gradle.xml
+#	new file:   .idea/misc.xml
+#	new file:   .idea/modules.xml
+#	new file:   .idea/runConfigurations.xml
+#	new file:   .idea/vcs.xml
+#	new file:   README
+#	new file:   app/.gitignore
+#	new file:   app/build.gradle
+#	new file:   app/proguard-rules.pro
+#	new file:   app/src/androidTest/java/com/p_brane/greenhouse/ApplicationTest.java
+#	new file:   app/src/main/AndroidManifest.xml
+#	new file:   app/src/main/ic_launcher-web.png
+#	new file:   app/src/main/java/com/p_brane/greenhouse/MainActivity.java
+#	new file:   app/src/main/res/drawable/dishwasher3.jpg
+#	new file:   app/src/main/res/drawable/heating_cooling2.jpg
+#	new file:   app/src/main/res/drawable/insulation.jpg
+#	new file:   app/src/main/res/drawable/nasa_topaz_solar_farm2.jpg
+#	new file:   app/src/main/res/drawable/power_meter3.jpg
+#	new file:   app/src/main/res/drawable/power_meter4.jpg
+#	new file:   app/src/main/res/drawable/washer_dryer2.jpg
+#	new file:   app/src/main/res/drawable/waterheater3.jpg
+#	new file:   app/src/main/res/layout-land/activity_main.xml
+#	new file:   app/src/main/res/layout-land/s2_heating_cooling.xml
+#	new file:   app/src/main/res/layout-land/s3_hotwater.xml
+#	new file:   app/src/main/res/layout-land/s4_appliances.xml
+#	new file:   app/src/main/res/layout-land/s5_insulation.xml
+#	new file:   app/src/main/res/layout-land/s6_energy_sources.xml
+#	new file:   app/src/main/res/layout-land/s7_summary.xml
+#	new file:   app/src/main/res/layout/activity_main.xml
+#	new file:   app/src/main/res/layout/s2_heating_cooling.xml
+#	new file:   app/src/main/res/layout/s3_hotwater.xml
+#	new file:   app/src/main/res/layout/s4_appliances.xml
+#	new file:   app/src/main/res/layout/s5_insulation.xml
+#	new file:   app/src/main/res/layout/s6_energy_sources.xml
+#	new file:   app/src/main/res/layout/s7_summary.xml
+#	new file:   app/src/main/res/mipmap-hdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-mdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-xhdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-xxhdpi/ic_launcher.png
+#	new file:   app/src/main/res/mipmap-xxxhdpi/ic_launcher.png
+#	new file:   app/src/main/res/values-w820dp/dimens.xml
+#	new file:   app/src/main/res/values/colors.xml
+#	new file:   app/src/main/res/values/dimens.xml
+#	new file:   app/src/main/res/values/strings.xml
+#	new file:   app/src/main/res/values/styles.xml
+#	new file:   app/src/test/java/com/p_brane/greenhouse/ExampleUnitTest.java
+#	new file:   build.gradle
+#	new file:   gradle.properties
+#	new file:   gradle/wrapper/gradle-wrapper.jar
+#	new file:   gradle/wrapper/gradle-wrapper.properties
+#	new file:   gradlew
+#	new file:   gradlew.bat
+#	new file:   greenhouse_app_idea_design_description.pdf
+#	new file:   settings.gradle
+#
+
